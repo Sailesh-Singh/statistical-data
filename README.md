@@ -22,3 +22,27 @@ Update or extend this table whenever a new year is added.
 
 > Note: Ensure the `2025/` directory (or equivalent path) exists in the repository, update the link above accordingly.
 
+
+## How to use this data
+
+- Browse the year-wise folders to see spreadsheets, CSV files, and summary documents.
+- Use the data as reference for:
+  - Preparing official financial and narrative reports for UbuCon Asia. 
+  - Benchmarking budgets and sponsorship planning for future editions.
+  - Community transparency, audits, and lessons learned for local teams. 
+
+## Contribution guidelines
+
+Contributions are welcome from organizers, treasurers, and auditors involved in UbuCon Asia.
+
+- Propose changes via pull request with:
+  - Clear commit messages describing what data or calculations were updated
+  - Short notes in the PR body summarizing scope and context 
+- Avoid adding any sensitive information (such as personal bank account numbers or private identifiers).
+- Keep file naming consistent and year-specific to make future audits easier.
+
+## Attribution
+
+UbuCon Asia is a regional Ubuntu community conference organized by Ubuntu and broader FOSS communities across Asia. 
+
+
